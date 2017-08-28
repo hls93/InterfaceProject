@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        // create new instances of Army and Marines
         Soldier officer  = new Army("bob", "officer", 2 );
         Soldier captain = new Marines("bill", "captain", 3);
 
